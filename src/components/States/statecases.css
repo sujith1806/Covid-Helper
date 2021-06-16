@@ -1,0 +1,45 @@
+.statecases{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 1rem;
+    width: 100%;
+}
+
+.distcases{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 2rem;
+    width: 100%;
+    margin: 20vh auto 20vh auto;
+}
+.districtdiv{
+    width: 100%;
+    text-align: center;
+    justify-content: space-between;
+}
+
+
+
+button {
+    padding: 20px 20px;
+    display: inline-block;
+    color: #008000;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1em;
+    overflow: hidden;
+    cursor: pointer;
+    background-color: black;
+    border: none;
+    margin: 10px;
+}
+
+/*creating animation effect*/
+button:hover {
+    color: #111;
+    background: #39ff14;
+    box-shadow: 0 0 50px #39ff14;
+}
+
+
