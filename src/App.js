@@ -1,7 +1,7 @@
 import './App.css';
 import MainPage from './components/MainPage';
-import Districts from './components/districts';
-import Vaccinecenterdetails from './components/vacperdistrict';
+import Districts from './components/Districts/districts';
+import Vaccinecenterdetails from './components/Center-Locations/vacperdistrict';
 import { Route,Switch,BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
