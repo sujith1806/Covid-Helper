@@ -6,6 +6,6 @@ There is also a search function where you can search for your area in your distr
 
 Made with React and Routing to Different Pages was done with React-Router
 
-The Data Comes from an API provided by the Government
+The Data Comes from COWIN API provided by the Government
 
 
