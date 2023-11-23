@@ -7,3 +7,5 @@ There is also a search function where you can search for your area in your distr
 Made with React and Routing to Different Pages was done with React-Router
 
 The Data Comes from COWIN API provided by the Government
+
+As of December 2022, the app became stale since the Government closed the API
